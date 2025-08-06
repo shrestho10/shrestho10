@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td>🤖 Chatbot Response Generation using candidate selection and ranking</td>
+    <td>🤖 Chatbot Response Generation using candidate selection and ranking from RAG</td>
     <td>🛡️ Reducing Hallucinations and improving chatbot robustness & truthfulness</td>
   </tr>
   <tr>
