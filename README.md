@@ -8,14 +8,13 @@
 ## 🔍 About Me
 - 🎓 CS PhD student at UC Irvine and a passionate researcher and developer working at the intersection of large language models (LLMs), safety, and NLP applications. I focus on making AI systems reliable, safe, and useful in real-world contexts.
 
-🔬 My work spans across:
-🤖 Chatbot Response Generation using candidate selection and ranking
-🛡️ Reducing Hallucinations and improving chatbot robustness & truthfulness
-🔍 Evaluation of Chatbot Safety through behavioral analysis and flag-based frameworks
-🚨 Jailbreak Detection & Defense to secure LLMs against prompt attacks
-🧠 Intent Detection using LLMs
-⚖️ Data Balancing & Augmentation to handle class imbalance
-🤖 Responsible AI
+### 🔬 My work spans across:
+
+| 🤖 Chatbot Response Generation using candidate selection and ranking  | 🛡️ Reducing Hallucinations and improving chatbot robustness & truthfulness          |
+| 🔍 Evaluation of Chatbot Safety through behavioral analysis and flag-based frameworks | 🚨 Jailbreak Detection & Defense to secure LLMs against prompt attacks             |
+| 🧠 Intent Detection using LLMs                                        | ⚖️ Data Balancing & Augmentation to handle class imbalance                         |
+| 🤖 Responsible AI                                                    |                                                                                    |
+
 
 I'm passionate about building trustworthy LLM systems by combining model finetuning, prompt engineering, and smart data interventions.
 
