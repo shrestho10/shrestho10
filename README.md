@@ -29,9 +29,6 @@
 ## 📈 GitHub Stats
 ![Shagoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho10&count_private=true&show_icons=true&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrestho10&show_icons=true&theme=default" alt="Shagoto's GitHub stats" />
-</p>
 
 ---
 
