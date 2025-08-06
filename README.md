@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there, I'm Shagoto 👋</h1>
 
 <p align="center">
@@ -7,16 +5,19 @@
 </p>
 
 ---
-
 ## 🔍 About Me
+- 🎓 CS PhD student at UC Irvine and a passionate researcher and developer working at the intersection of large language models (LLMs), safety, and NLP applications. I focus on making AI systems reliable, safe, and useful in real-world contexts.
 
-- 🎓 CS PhD student at UC Irvine working on **Large Language Models (LLMs)**, **safety**, **synthetic data** , **halucinations**, and **responsible AI**
-- 🤝 Collaborating on projects involving **GPT-style evaluation**, **fine-tuning**, and **photometric stereo**
-- 🧠 Research interests:  
-  `LLMs` • `NLP Evaluation` • `Synthetic Data` • `Multimodal AI` • `Robustness` 
+🔬 My work spans across:
+🤖 Chatbot Response Generation using candidate selection and ranking
+🛡️ Reducing Hallucinations and improving chatbot robustness & truthfulness
+🔍 Evaluation of Chatbot Safety through behavioral analysis and flag-based frameworks
+🚨 Jailbreak Detection & Defense to secure LLMs against prompt attacks
+🧠 Intent Detection using LLMs
+⚖️ Data Balancing & Augmentation to handle class imbalance
+🤖 Responsible AI
 
----
-
+I'm passionate about building trustworthy LLM systems by combining model finetuning, prompt engineering, and smart data interventions.
 
 ---
 
@@ -84,7 +85,6 @@
 ---
 
 ## 🧰 Other Notable Projects
-
 - [Depression Prediction using Actigraph Watch](https://ieeexplore.ieee.org/document/9579614)  
 - [Covid-19 Fake News Detection](#)  
 - [Bangla News Classification](#)  
@@ -97,7 +97,6 @@
 ---
 
 
-
 ## 🚧 Current Projects
 
 - 🧪 **SafeLLM Evaluation** — Benchmarking chatbot safety using custom labels and fine-tuned LLMs
@@ -106,8 +105,6 @@
 - 📸 **Photometric 3D Mesh Reconstruction** — From CMU Multi-PIE using uncalibrated photometric stereo
 
 ---
-
-
 
 
 ## 📈 GitHub Stats
