@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>🤖 Responsible AI</td>
-    <td></td>
+    <td>📝 Summarization and reasoning by LLM</td>
   </tr>
 </table>
 
