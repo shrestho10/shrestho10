@@ -10,10 +10,24 @@
 
 ### 🔬 My work spans across:
 
-| 🤖 Chatbot Response Generation using candidate selection and ranking  | 🛡️ Reducing Hallucinations and improving chatbot robustness & truthfulness          |
-| 🔍 Evaluation of Chatbot Safety through behavioral analysis and flag-based frameworks | 🚨 Jailbreak Detection & Defense to secure LLMs against prompt attacks             |
-| 🧠 Intent Detection using LLMs                                        | ⚖️ Data Balancing & Augmentation to handle class imbalance                         |
-| 🤖 Responsible AI                                                    |                                                                                    |
+<table>
+  <tr>
+    <td>🤖 Chatbot Response Generation using candidate selection and ranking</td>
+    <td>🛡️ Reducing Hallucinations and improving chatbot robustness & truthfulness</td>
+  </tr>
+  <tr>
+    <td>🔍 Evaluation of Chatbot Safety through behavioral analysis and flag-based frameworks</td>
+    <td>🚨 Jailbreak Detection & Defense to secure LLMs against prompt attacks</td>
+  </tr>
+  <tr>
+    <td>🧠 Intent Detection using LLMs</td>
+    <td>⚖️ Data Balancing & Augmentation to handle class imbalance</td>
+  </tr>
+  <tr>
+    <td>🤖 Responsible AI</td>
+    <td></td>
+  </tr>
+</table>
 
 
 I'm passionate about building trustworthy LLM systems by combining model finetuning, prompt engineering, and smart data interventions.
