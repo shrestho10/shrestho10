@@ -88,8 +88,6 @@ I'm passionate about building trustworthy LLM systems by combining model finetun
   <li>
     Enhancing Intent Detection in Nicotine Replacement Therapy Tweets Using LLM: A Fine-Tuning Framework with Class Downsampling and Misclassification Refinement
     [<a href="https://github.com/shrestho10/Enhancing-Intent-Detection-in-NRT-Tweets-Using-LLM" target="_blank">GitHub</a>]
-    [<a href="#" target="_blank">Video</a>]
-    [<a href="#" target="_blank">Paper</a>]
   </li>
 
   <li>
