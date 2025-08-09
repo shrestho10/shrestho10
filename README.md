@@ -71,41 +71,142 @@ I'm passionate about building trustworthy LLM systems by combining model finetun
 
 ## 🧪 Highlighted Projects
 
-- **[Summary the Savior (LLM Jailbreak Defense)](https://github.com/shrestho10/SummaryTheSavior)**  
-  [📄 Paper](https://aclanthology.org/2025.trustnlp-main.17/) | [🎥 Demo](https://www.youtube.com/watch?v=W2cgTBipBEo&t=1s)
+<!-- Projects Section -->
+<div class="section-title" style="margin-top: 3em;">
+  <h2>Projects</h2>
+</div>
 
-- **[Malicious Prompt Detection for LLMs](https://github.com/shrestho10/malicious-prompt-detection-for-LLMs)**  
-  [📄 Paper](https://dl.acm.org/doi/10.1145/3689217.3690618)
+<ul>
 
-- **[3D Face/Object Reconstruction with Photometric Stereo](https://github.com/shrestho10/3D-Face-Object-Surface-Reconstruction-Using-Calibrated-and-Uncalibrated-Photometric-Stereo)**  
-  [🎥 Demo](https://www.youtube.com/watch?v=5YFaPDeGGcs)
+  <li>
+    Summary the Savior: Harmful Keyword and Query-based Summarization for LLM Jailbreak Defense
+    [<a href="https://github.com/shrestho10/SummaryTheSavior" target="_blank">GitHub</a>]
+    [<a href="https://www.youtube.com/watch?v=W2cgTBipBEo&t=1s" target="_blank">Video</a>]
+    [<a href="https://aclanthology.org/2025.trustnlp-main.17/" target="_blank">Paper</a>]
+  </li>
 
-- **[Bangla Headline Sentiment Analysis](https://github.com/shrestho10/Bangla-Headline-Sentiment-Analysis)**  
-  [📄 Report](https://github.com/shrestho10/Bangla-Headline-Sentiment-Analysis/blob/main/Bangla%20news%20headline%20sentiment%20analysis.pdf)
+  <li>
+    Enhancing Intent Detection in Nicotine Replacement Therapy Tweets Using LLM: A Fine-Tuning Framework with Class Downsampling and Misclassification Refinement
+    [<a href="https://github.com/shrestho10/Enhancing-Intent-Detection-in-NRT-Tweets-Using-LLM" target="_blank">GitHub</a>]
+    [<a href="#" target="_blank">Video</a>]
+    [<a href="#" target="_blank">Paper</a>]
+  </li>
 
-- **[Smartphone-based Skin Cancer Detection (SVM)](https://github.com/shrestho10/Smartphone-based-Skin-Cancer-Detection-using-Image-Processing-and-Support-Vector-Machine.-)**  
-  [📄 Thesis](https://github.com/shrestho10/Smartphone-based-Skin-Cancer-Detection-using-Image-Processing-and-Support-Vector-Machine.-/blob/main/Thesis%20Report_%20Shagoto.pdf)
+  <li>
+    3D Face/Object Surface Reconstruction Using Calibrated and Uncalibrated Photometric Stereo
+    [<a href="https://github.com/shrestho10/3D-Face-Object-Surface-Reconstruction-Using-Calibrated-and-Uncalibrated-Photometric-Stereo/tree/main" target="_blank">GitHub</a>]
+    [<a href="https://www.youtube.com/watch?v=5YFaPDeGGcs" target="_blank">Video</a>]
+  </li>
 
-- **[Military Tank Simulator (Unity)](https://github.com/shrestho10/MilitaryTankSimulator)**
+  <li>
+    Detecting Malicious Prompts for Large Language Models (LLMs)
+    [<a href="https://github.com/shrestho10/malicious-prompt-detection-for-LLMs" target="_blank">GitHub</a>]
+    [<a href="https://dl.acm.org/doi/10.1145/3689217.3690618" target="_blank">Paper</a>]
+  </li>
 
-- **[Zombie 3rd-Person Shooter Game (Unreal)](https://github.com/shrestho10/Zombie-3rd-Person-shooter-3D-Game)**
+  <li>
+    Smartphone-based Skin Cancer Detection using Image Processing and Support Vector Machine
+    [<a href="https://github.com/shrestho10/Smartphone-based-Skin-Cancer-Detection-using-Image-Processing-and-Support-Vector-Machine.-" target="_blank">GitHub</a>]
+    [<a href="https://github.com/shrestho10/Smartphone-based-Skin-Cancer-Detection-using-Image-Processing-and-Support-Vector-Machine.-/blob/main/Thesis%20Report_%20Shagoto.pdf" target="_blank">Paper</a>]
+  </li>
 
-- **[Bangla Chatbot](https://github.com/shrestho10/Bangla-Chatbot)**  
-- **[Bangla Summarizer](https://github.com/shrestho10/Bangla-Summarizer)**  
-- **[Bangla News Recommender](https://github.com/shrestho10/Bangla-Article-Similarity-and-recommendation-using-Cosine-Similarity_2)**  
-- **[Bangla Voice Assistant](#)**
+  <li>
+    Smartphone-based Skin Cancer Detection using Image Processing and Convolutional Neural Network
+    [<a href="#" target="_blank">GitHub</a>]
+    [<a href="https://ieeexplore.ieee.org/abstract/document/9579966" target="_blank">Paper</a>]
+  </li>
 
----
+  <li>
+    An Empirical Study to Detect Cyberbullying with TF-IDF and Machine Learning Algorithms
+    [<a href="#" target="_blank">GitHub</a>]
+    [<a href="https://ieeexplore.ieee.org/abstract/document/9641251" target="_blank">Paper</a>]
+  </li>
 
-## 🧰 Other Notable Projects
-- [Depression Prediction using Actigraph Watch](https://ieeexplore.ieee.org/document/9579614)  
-- [Covid-19 Fake News Detection](#)  
-- [Bangla News Classification](#)  
-- [Numerical Methods Analyzer](https://github.com/shrestho10/NumericalMethods)  
-- [Railway Management System](https://github.com/shrestho10/RailwayMangementSystem)  
-- [Parser in C](https://github.com/shrestho10/Parser-In-C)  
-- [Lexical Analyzer in C](https://github.com/shrestho10/Lexical-Analyzer-in-C)  
-- [Scientific Calculator](https://github.com/shrestho10/SimpleCalculator)
+  <li>
+    Efficient Machine Learning Approaches to Detect Fake News of Covid-19
+    [<a href="#" target="_blank">GitHub</a>]
+    [<a href="https://link.springer.com/chapter/10.1007/978-981-19-2347-0_40" target="_blank">Paper</a>]
+  </li>
+
+  <li>
+    An Empirical Study of Machine Learning-based Bangla News Classification Methods
+    [<a href="#" target="_blank">GitHub</a>]
+    [<a href="https://ieeexplore.ieee.org/abstract/document/9579655" target="_blank">Paper</a>]
+  </li>
+
+  <li>
+    A Machine Learning Based Study to Predict Depression with Monitoring Actigraph Watch Data
+    [<a href="https://ieeexplore.ieee.org/abstract/document/9579614" target="_blank">Paper</a>]
+  </li>
+
+  <li>
+    Bangla News Headline Sentiment Analysis
+    [<a href="https://github.com/shrestho10/Bangla-Headline-Sentiment-Analysis" target="_blank">GitHub</a>]
+    [<a href="https://github.com/shrestho10/Bangla-Headline-Sentiment-Analysis/blob/main/Bangla%20news%20headline%20sentiment%20analysis.pdf" target="_blank">Report</a>]
+  </li>
+
+  <li>
+    Bangla News Similarity and Searching Tool for Disabled People
+    [<a href="https://github.com/shrestho10/Bangla-Article-Similarity-and-recommendation-using-Cosine-Similarity_2" target="_blank">GitHub</a>]
+    [<a href="https://github.com/shrestho10/Bangla-Article-Similarity-and-recommendation-using-Cosine-Similarity_2/blob/main/Bangla%20Article%20Similarity%20and%20recommendation%20using%20Cosine%20Similarity_2.pdf" target="_blank">Report</a>]
+  </li>
+
+  <li>
+    Bangla News Summarizer for Disabled People
+    [<a href="https://github.com/shrestho10/Bangla-Summarizer" target="_blank">GitHub</a>]
+    [<a href="https://github.com/shrestho10/Bangla-Summarizer/blob/main/Bangla%20Article%20summary%20using%20sentence%20ranking.pdf" target="_blank">Report</a>]
+  </li>
+
+  <li>
+    Bangla Intelligent ChatBot
+    [<a href="https://github.com/shrestho10/Bangla-Chatbot/tree/main" target="_blank">GitHub</a>]
+    [<a href="https://github.com/shrestho10/Bangla-Chatbot/blob/main/Bangla%20Chatbot%20using%20TFIDF%20and%20Cosine%20Similarity.pdf" target="_blank">Report</a>]
+  </li>
+
+  <li>
+    Military Simulator 3D using Unity Engine
+    [<a href="https://github.com/shrestho10/MilitaryTankSimulator" target="_blank">GitHub</a>]
+  </li>
+
+  <li>
+    3rd Person Zombie Shooter 3D using Unreal Engine
+    [<a href="https://github.com/shrestho10/Zombie-3rd-Person-shooter-3D-Game" target="_blank">GitHub</a>]
+  </li>
+
+  <li>
+    Bangla Next Word Predictor
+    [<a href="https://github.com/shrestho10/bangla_sequence_prediction_lstm" target="_blank">GitHub</a>]
+    [<a href="https://github.com/shrestho10/bangla_sequence_prediction_lstm/blob/main/Bangla%20sequence%20prediction%20using%20LSTMs.pdf" target="_blank">Report</a>]
+  </li>
+
+  <li>
+    Khulna University Hall and Housing Management
+    [<a href="https://github.com/shrestho10/KHULNA_university_hall_and_housing_170210" target="_blank">GitHub</a>]
+  </li>
+
+  <li>
+    Railway Management Web Program
+    [<a href="https://github.com/shrestho10/RailwayMangementSystem" target="_blank">GitHub</a>]
+  </li>
+
+  <li>
+    Railway Management Visual Studio Version
+    [<a href="https://github.com/shrestho10/RailwayManagement-VisualStudio-C-" target="_blank">GitHub</a>]
+  </li>
+
+  <li>
+    Parser and Lexical Analyzer for Compiling
+    [<a href="https://github.com/shrestho10/Parser-In-C" target="_blank">Parser-GitHub</a>]
+    [<a href="https://github.com/shrestho10/Lexical-Analyzer-in-C" target="_blank">Lexical-GitHub</a>]
+  </li>
+
+  <li>
+    Numerical Methods Analyzer
+    [<a href="https://github.com/shrestho10/NumericalMethods" target="_blank">GitHub</a>]
+  </li>
+
+</ul>
+
 
 ---
 
