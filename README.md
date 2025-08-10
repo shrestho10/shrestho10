@@ -110,25 +110,21 @@ I'm passionate about building trustworthy LLM systems by combining model finetun
 
   <li>
     Smartphone-based Skin Cancer Detection using Image Processing and Convolutional Neural Network
-    [<a href="#" target="_blank">GitHub</a>]
     [<a href="https://ieeexplore.ieee.org/abstract/document/9579966" target="_blank">Paper</a>]
   </li>
 
   <li>
     An Empirical Study to Detect Cyberbullying with TF-IDF and Machine Learning Algorithms
-    [<a href="#" target="_blank">GitHub</a>]
     [<a href="https://ieeexplore.ieee.org/abstract/document/9641251" target="_blank">Paper</a>]
   </li>
 
   <li>
     Efficient Machine Learning Approaches to Detect Fake News of Covid-19
-    [<a href="#" target="_blank">GitHub</a>]
     [<a href="https://link.springer.com/chapter/10.1007/978-981-19-2347-0_40" target="_blank">Paper</a>]
   </li>
 
   <li>
     An Empirical Study of Machine Learning-based Bangla News Classification Methods
-    [<a href="#" target="_blank">GitHub</a>]
     [<a href="https://ieeexplore.ieee.org/abstract/document/9579655" target="_blank">Paper</a>]
   </li>
 
