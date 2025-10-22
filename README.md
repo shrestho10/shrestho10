@@ -216,7 +216,8 @@ I'm passionate about building trustworthy LLM systems by combining model finetun
 
 
 ## 📈 GitHub Stats
-![Shagoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho10&count_private=true&show_icons=true&theme=default)
+![Shagoto's GitHub stats]![Stats](https://github-readme-stats.vercel.app/api?username=shrestho10&count_private=true&show_icons=true&theme=default&cache_seconds=3600)
+
 
 
 ---
